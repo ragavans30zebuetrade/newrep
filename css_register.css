@@ -1,0 +1,32 @@
+html,body
+{
+    margin: 0,auto;
+    padding: 0;
+}
+.register-heading
+{
+    background-color:rgba(226, 133, 12, 0.842);
+    color:black;
+    padding:30px 30px;
+    font-size:20px;
+    text-align : left;
+    font-family:"Times New Roman";
+}
+.register-form-select,.Register_id_proof_button,.register_proof_card_number,.register_First_name,.register_phone,.register_last_name,.register_mail_address,.register_password,.register_confirm_password,.register_Current_address,.register_Permanent_address,.register_id_proof,.submit_button
+{
+    border-radius: 25px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    
+}
+.register_label_id_proof
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.register_id_proof
+{
+    margin-left: 5px;
+}
+.register-form-select
+{
+    text-align: center;
+}

@@ -1,0 +1,80 @@
+body,html{
+    height: 100%;
+   margin: 0;
+   align-items: center;
+   
+}
+.bg{
+   background-image: url(orange_mountain2.jpg);
+    height: 100%;
+   background-position: center;
+   background-repeat: repeat;
+   background-size: cover;
+}
+.css-button{
+   padding: 10px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 25px;
+   width: 100%;
+
+}
+.email-input{
+border-radius: 25px;
+background-color: transparent;
+color: black;
+
+}
+.pass-input{
+border-radius: 25px;
+background-color: transparent;
+color: black;
+
+}
+.forget-password
+{
+color: black;
+}
+/* .c1{
+align-items: center;
+} */
+/* .c2{
+align-items: center;
+} */
+.centercard{
+display: flex;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+justify-content: center;
+
+}
+.form1{
+margin-top: 125px;
+
+}
+.text{
+text-align: center;
+font-size: large;
+color: RED;
+}
+.form-check-label
+{
+/* font-size: x-small; */
+color: red;
+}
+.forget-password
+{
+/*font-size: small;*/
+color: red;
+}
+.label1
+{
+text-align:center;
+color:red;
+}
